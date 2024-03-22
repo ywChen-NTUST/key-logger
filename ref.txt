@@ -1,0 +1,15 @@
+https://github.com/GiacomoLaw/Keylogger/blob/master/windows/klog_main.cpp
+https://ithelp.ithome.com.tw/articles/10301974
+
+https://learn.microsoft.com/en-us/windows/win32/winmsg/using-messages-and-message-queues
+https://learn.microsoft.com/en-us/windows/win32/winmsg/about-hooks
+https://learn.microsoft.com/en-us/windows/win32/winmsg/using-hooks
+https://learn.microsoft.com/zh-tw/windows/win32/api/winuser/nf-winuser-setwindowshookexa
+https://learn.microsoft.com/zh-tw/windows/win32/api/winuser/nf-winuser-callnexthookex
+https://learn.microsoft.com/zh-tw/windows/win32/winmsg/lowlevelkeyboardproc
+https://learn.microsoft.com/zh-tw/windows/win32/winmsg/keyboardproc
+https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+https://learn.microsoft.com/zh-tw/windows/win32/api/winuser/nf-winuser-getforegroundwindow
+https://learn.microsoft.com/zh-tw/windows/win32/api/winuser/nf-winuser-getwindowtexta
+https://learn.microsoft.com/zh-tw/windows/win32/api/sysinfoapi/nf-sysinfoapi-getsystemtime
+https://learn.microsoft.com/zh-tw/windows/win32/api/minwinbase/ns-minwinbase-systemtime
